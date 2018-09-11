@@ -1,0 +1,22 @@
+{
+  "name": "backend_jahir_figueroa",
+  "version": "1.0.0",
+  "description": "Evaluación final Backend\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D modulo\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[ backend NextU",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "buscador",
+    "node",
+    "backend",
+    "json"
+  ],
+  "author": "Jahir Figueroa",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0"
+  }
+}
